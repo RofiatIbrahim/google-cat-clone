@@ -1,0 +1,38 @@
+/* Google Clone*/
+html{
+	background: #E28329;
+}
+.main{
+	margin-top: 100px;
+}
+.logo-img {
+	display: block;
+	width:300px;
+	margin: 0 auto 20px;
+	border-radius: 20px;
+}
+
+.search-input {
+	display: block;	
+	width: 400px;
+	line-height: 24px;
+	border: 3px solid #CBE289;
+	border-radius: 24px;
+	padding : 10px 30px;
+	margin: 0 auto 0;
+}
+
+.btn-wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+.btn {
+	background: #CBE289;
+	color: #432719;
+	padding: 10px 20px;
+	font-size: 15px;
+	margin: 20px 10px;
+	border-radius: 20px;
+	border: 2px solid #CBE289;	
+}
